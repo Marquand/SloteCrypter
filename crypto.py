@@ -1,7 +1,7 @@
 import math
 import string
 import re
-
+import encodings
 
 print("Bienvenue sur mon crypter/decrypter de message,")
 print("vous devez partagé une clefs avec un destinataire.")
